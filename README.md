@@ -10,3 +10,6 @@ The basic model of the PTC heater is developed using Matlab/Simulink which can b
 
 ## Result and analysis
 The simulation is ran for just 10 sec. The SOC vs. Time plot shows reduction in SOC values in each time step. This illustrates that both models of PTC heater and Battery are successfully coupled.
+
+## Note:
+Technically no need to use .m file
